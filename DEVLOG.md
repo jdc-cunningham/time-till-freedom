@@ -1,6 +1,6 @@
 ### 10/06/2025
 
-I have not been writing much code for myself lately. Just been working, dayjob writing code and then driving Uber Eats (and drinking).
+I have not been writing much code for myself lately. Just been working, dayjob writing code and then driving Uber Eats. Also been drinking 4 days out of 7.
 
 I've been thinking about this, the main thing to get out of it is a number of months/year(s).
 
