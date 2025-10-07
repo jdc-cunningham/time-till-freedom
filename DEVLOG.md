@@ -2,6 +2,8 @@
 
 I have not been writing much code for myself lately. Just been working, dayjob writing code and then driving Uber Eats. Also been drinking 4 days out of 7.
 
+I drive 4PM-11PM on Sat/Sunday after working out beforehand.
+
 I've been thinking about this, the main thing to get out of it is a number of months/year(s).
 
 The card/debt is an object and it goes into a calculator to get that value then you sum them.
