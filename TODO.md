@@ -1,3 +1,3 @@
-- [ ] data store
+- [ ] data structure
 - [ ] basic interface to add data
 - [ ] calculation for pay off time

@@ -45,6 +45,17 @@ I don't really have a specific design just something vague, will start building 
 
 <img src="./readme-images/init-thoughts.JPG"/>
 
+6:54 PM
+I feel too sad right now to think
+
+I will write something down
+
+F meeeee man I'm broke already... it's crazy how much debt I have and it's not even that much
+
+I'm looking at $100K+ Porsches lmao you're broke and have a day job
+
+No I'm past the Porsche phase, trying to get me that Lotus Exige
+
 ### 10/06/2025
 
 I have not been writing much code for myself lately. Just been working, dayjob writing code and then driving Uber Eats. Also been drinking 4 days out of 7.
