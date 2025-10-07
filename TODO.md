@@ -1,0 +1,3 @@
+- [ ] data store
+- [ ] basic interface to add data
+- [ ] calculation for pay off time

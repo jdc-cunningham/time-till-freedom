@@ -19,6 +19,32 @@ I'm drinking right now, nothing hard just a 6-pack of 9.5% ale
 
 Finally gonna bust out the remarkable 2 again
 
+6:26 PM
+
+There is a neat feature I have thought about, it shows falling leaves animated
+
+This is a tough problem because it needs to factor in other uses of money eg. bills which are not debt
+
+Spreadsheet is the goat, it's always there, I use it to wireframe stuff
+
+We'll do it simple, 3 tabs:
+
+- bills
+- debt
+- income
+
+That'll be the main parts to do the formula
+
+4
+
+will need a home tab
+
+6:43 PM
+
+I don't really have a specific design just something vague, will start building the pieces
+
+<img src="./readme-images/init-thoughts.JPG"/>
+
 ### 10/06/2025
 
 I have not been writing much code for myself lately. Just been working, dayjob writing code and then driving Uber Eats. Also been drinking 4 days out of 7.
