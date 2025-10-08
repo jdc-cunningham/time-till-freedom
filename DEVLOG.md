@@ -68,6 +68,12 @@ Ahh man... it's tough I work 7 days a week and right now I don't want to do shit
 
 But yeah I've just gotten used to accepting/waiting for this 2 week paycheck
 
+8:55 PM
+
+I need to make debt payment like a drug
+
+Is the $6 caeasar salad that I eat too expensive? Idk... but maybe it buys me another 5 mins of my life
+
 ### 10/06/2025
 
 I have not been writing much code for myself lately. Just been working, dayjob writing code and then driving Uber Eats. Also been drinking 4 days out of 7.
