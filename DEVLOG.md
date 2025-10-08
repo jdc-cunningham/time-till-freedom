@@ -56,6 +56,10 @@ I'm looking at $100K+ Porsches lmao you're broke and have a day job
 
 No I'm past the Porsche phase, trying to get me that Lotus Exige
 
+7:01 PM
+
+I'll round up too, nearest dollar
+
 ### 10/06/2025
 
 I have not been writing much code for myself lately. Just been working, dayjob writing code and then driving Uber Eats. Also been drinking 4 days out of 7.
