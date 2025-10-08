@@ -62,6 +62,12 @@ I'll round up too, nearest dollar
 
 Ahh man... it's tough I work 7 days a week and right now I don't want to do shit I just want to drink and be sad lol
 
+7:52 PM
+
+3 9.5% beers in, I think about this meme sometimes this guy's like "there is no passion! ambition! etc..." it's funny
+
+But yeah I've just gotten used to accepting/waiting for this 2 week paycheck
+
 ### 10/06/2025
 
 I have not been writing much code for myself lately. Just been working, dayjob writing code and then driving Uber Eats. Also been drinking 4 days out of 7.
