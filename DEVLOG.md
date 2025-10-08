@@ -74,6 +74,16 @@ I need to make debt payment like a drug
 
 Is the $6 caeasar salad that I eat too expensive? Idk... but maybe it buys me another 5 mins of my life
 
+Emotions is so funny
+
+Like here I am healthy, a 6-fig job, all I have to do is say "yes sir"
+
+But I'm sad
+
+So I'm self-sabotaging
+
+Robots don't need emotion
+
 ### 10/06/2025
 
 I have not been writing much code for myself lately. Just been working, dayjob writing code and then driving Uber Eats. Also been drinking 4 days out of 7.
