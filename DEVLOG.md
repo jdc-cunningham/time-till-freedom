@@ -60,6 +60,8 @@ No I'm past the Porsche phase, trying to get me that Lotus Exige
 
 I'll round up too, nearest dollar
 
+Ahh man... it's tough I work 7 days a week and right now I don't want to do shit I just want to drink and be sad lol
+
 ### 10/06/2025
 
 I have not been writing much code for myself lately. Just been working, dayjob writing code and then driving Uber Eats. Also been drinking 4 days out of 7.
