@@ -1,3 +1,19 @@
+### 10/08/2025
+
+7:52 PM
+
+Alright back on, decided to weather the storm
+
+I just donated plasma, while I did start fasting today I just realized how many caloires beer is
+
+So yeah, I gotta stick to my 2 days a week on that which... idk I get done driving uber eats at 11 PM I'm like ehhh let's drink and play video games
+
+But damn a can is 220 calories fuuhhhhhh and I'm drinking 6 boy
+
+I increased my bench today I'm at 260 lbs assisted, it's a bit, I did 4 reps and then I was like oh f
+
+I'm gonna write some brief code, the basic component tabbing system, I've made multiple of these already
+
 ### 10/07/2025
 
 6:03 PM
