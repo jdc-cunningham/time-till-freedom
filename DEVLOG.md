@@ -37,7 +37,8 @@ I'm trying to do this silent session right now
 7:22 PM
 Didn't get it, I actually almost passed out on my futon ha tired
 
-
+7:39 PM
+Ehh I'm not feeling it, some progress but not much
 
 ### 10/08/2025
 

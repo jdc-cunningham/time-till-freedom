@@ -29,7 +29,7 @@ function App() {
           <p>unknown modal</p>
         </div>;
     }
-  }
+  };
 
   return (
     <div className="App">
