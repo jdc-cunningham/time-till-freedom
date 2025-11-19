@@ -25,6 +25,20 @@ I always have something playing, music, YouTube video, a podcast, something...
 
 As somebody wrote, "embrace boredom"
 
+7:11 PM
+What do I want out of this?
+
+I want to see the end of my debt, how long it will take, make it tangible, something I aspire to
+
+I just feel like I'm just going with the flow
+
+I'm trying to do this silent session right now
+
+7:22 PM
+Didn't get it, I actually almost passed out on my futon ha tired
+
+
+
 ### 10/08/2025
 
 7:52 PM
