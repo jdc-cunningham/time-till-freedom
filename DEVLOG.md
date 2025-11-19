@@ -1,3 +1,30 @@
+### 11/18/2025
+
+6:54 PM
+Well I'm not doing Uber Eats on my weekends anymore so I do feel like I have more time. Although I will admit my first weekend so far I didn't do shit. I just watched a lot of YouTube which is something I'm trying to do less of. It's not education just whatever garbage and sometimes you gotta do that, do nothing.
+
+I do feel like I keep re-writing apps, it's like here we go, another modal that collects info and stores a debt object
+
+I have some forced holiday coming up, forced I say as in I won't get paid for it but it's nice, looking forward to that in December. Have a short break around thanksgiving.
+
+I do feel myself wanting to do better like not being absolutely broke/waiting for next paycheck, getting out of debt, eating healthier/trying to lose weight.
+
+I've been good about not going out, when I drink near the weekend I do it at home and just play Battlefield 6.
+
+Anyway let me build that modal.
+
+7:03 PM
+I don't know why it's hard to start, I don't want to do it, I just want to veg out
+
+I ran today so there's a positive
+
+7:06 PM
+There is this thing I'm trying to get myself to do where I sit in silence, (meditate?) and just stop being plugged into the web for a minute.
+
+I always have something playing, music, YouTube video, a podcast, something...
+
+As somebody wrote, "embrace boredom"
+
 ### 10/08/2025
 
 7:52 PM
