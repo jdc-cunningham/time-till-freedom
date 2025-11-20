@@ -1,3 +1,17 @@
+### 11/19/2025
+
+6:53 PM
+
+I decided I'm not donating plasma anymore. I drop about 4 hours a week on that to get $115 (minus taxes).
+
+Now that I'm billing full hours I'm not doing bad.
+
+But yeah, I just looked at my finances it'll take me at best 9-10 months to pay off my non-student loan, non-personal debt...
+
+So I'll pay off the highest interest/growing ones first in case I do lose my job (always a fear) I'm a contractor/never know with the market although I'm doing good performance-wise.
+
+I'm doing some thinking right now can't really code
+
 ### 11/18/2025
 
 6:54 PM
