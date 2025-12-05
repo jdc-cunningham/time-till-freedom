@@ -1,3 +1,17 @@
+### 12/04/2025
+
+Alright so I looked into a popular or well-known (heh) company that deals with logging into finance accounts and it turns out it's not for us mere plebs which I'm like f it I don't care, this software is for me.
+
+Still I was disappointed, considering I have like 20 accounts and it's a PITA to log into all of them
+
+Most of these accounts are debt btw
+
+like 90% lmao I'm f'd
+
+so yeah I'll go for this automated form thing that just goes over a list of my accounts and asks me to log the balance
+
+anyway I need to nail this... I'm tired of being poor
+
 ### 11/19/2025
 
 6:53 PM
