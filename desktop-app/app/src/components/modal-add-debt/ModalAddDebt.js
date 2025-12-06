@@ -15,8 +15,8 @@ const ModalAddDebt = (props) => {
 
   const updateData = (key, val) => {
     setDebtInfo(prevDebtInfo => ({
-      [key]: val,
-      ...prevDebtInfo
+      ...prevDebtInfo,
+      [key]: val
     }));
   };
 
