@@ -5,7 +5,7 @@ import ModalAddDebt from './components/modal-add-debt/ModalAddDebt';
 
 function App() {
   const [activeTab, setActiveTab] = useState('home');
-  const [activeModal, setActiveModal] = useState('');
+  const [activeModal, setActiveModal] = useState('add-debt');
 
   const renderBody = (activeTab) => {
     switch (activeTab) { // enum
@@ -33,8 +33,8 @@ function App() {
 
   return (
     <div className="App">
-      {!activeModal && <HeaderTabs/>}
-      {!activeModal && <div className="Body">
+      {<HeaderTabs/>}
+      {<div className="Body">
         {renderBody(activeTab)}
       </div>}
       {activeModal && renderModal(activeModal)}

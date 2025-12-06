@@ -1,0 +1,40 @@
+.ModalAddDebt {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  border: 1px solid #282828;
+  padding: 1rem;
+  border-radius: 0.25rem;
+
+  input, select, button {
+    font-size: 1.25rem;
+    border-radius: 0.25rem;
+    border: 1px solid #282828;
+  }
+
+  input {
+    &:not(:first-of-type) {
+      margin-top: 0.5rem;
+    }
+
+    padding: 0.5rem;
+  }
+
+  select {
+    padding: 0.5rem;
+    margin-top: 0.5rem;
+    width: 100%;
+  }
+
+  button {
+    padding: 0.5rem 0.25rem;
+    margin-top: 0.5rem;
+    cursor: pointer;
+    width: 50%;
+  }
+}

@@ -1,3 +1,32 @@
+### 12/06/2025
+
+11:52 AM
+
+I've been trying to write code for the past like hour and I keep having distractions
+
+I've been thinking (that I write the same app over and over again)
+
+This is for debt:
+
+- [ ] basic form that takes in: name, balance, APR, due date, min due (varies)
+- [ ] these are stored in localStorage (this app is for me, will be a desktop app)
+- [ ] another form to enter current balance
+- [ ] button that you click
+- [ ] the button after clicked it goes through the list of accounts and asks for all their balances
+- [ ] these updated values will be stored in another localStorage item
+
+I gotta see what I've been working on
+
+12:05 PM
+
+I went out last night and I didn't sleep well so I'm kind of struggling
+
+Gotta lift and run later at 2PM
+
+12:14 PM
+
+It's funny I'm partially def right now can barely hear out of my left ear, also my left stereo is weaker
+
 ### 12/04/2025
 
 Alright so I looked into a popular or well-known (heh) company that deals with logging into finance accounts and it turns out it's not for us mere plebs which I'm like f it I don't care, this software is for me.
