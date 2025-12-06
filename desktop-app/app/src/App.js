@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import { useState } from 'react';
 import './App.css';
 import HeaderTabs from './components/header-tabs/HeaderTabs';
 import ModalAddDebt from './components/modal-add-debt/ModalAddDebt';
