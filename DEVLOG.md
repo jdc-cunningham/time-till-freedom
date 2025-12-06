@@ -8,7 +8,7 @@ I've been thinking (that I write the same app over and over again)
 
 This is for debt:
 
-- [ ] basic form that takes in: name, balance, APR, due date, min due (varies)
+- [x] basic form that takes in: name, balance, APR, due date, min due (varies)
 - [ ] these are stored in localStorage (this app is for me, will be a desktop app)
 - [ ] another form to enter current balance
 - [ ] button that you click
@@ -26,6 +26,10 @@ Gotta lift and run later at 2PM
 12:14 PM
 
 It's funny I'm partially def right now can barely hear out of my left ear, also my left stereo is weaker
+
+12:29 PM
+
+Man I feel like shiiiiii I just wish I could have kept sleeping but normally I wake up at like 2PM on the weekends
 
 ### 12/04/2025
 
