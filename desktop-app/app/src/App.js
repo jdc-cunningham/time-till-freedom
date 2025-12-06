@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import './App.css';
 import HeaderTabs from './components/header-tabs/HeaderTabs';
 import ModalAddDebt from './components/modal-add-debt/ModalAddDebt';
+import saveDebt from './services/save-debt';
 
 function App() {
   const [activeTab, setActiveTab] = useState('home');
@@ -23,7 +24,7 @@ function App() {
   const renderModal = (activeModal) => {
     switch (activeModal) {
       case 'add-debt':
-        return <ModalAddDebt/>;
+        return <ModalAddDebt saveDebt={saveDebt}/>;
       default:
         return <div className="ModalUnknown">
           <p>unknown modal</p>
