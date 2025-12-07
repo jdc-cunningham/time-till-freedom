@@ -8,6 +8,14 @@ Alright back from the gym, wrist kind of hurts from lifting but I want to bust t
 
 Dang... I'm not feeling it, need to push through, I just think about how much work I have to do/feels daunting but I need to see it, my debt, I need drive to save/put towards debt
 
+5:23 PM
+
+Alright I just used this form manually and entered in all my stuff.
+
+10 different types of debt
+
+I am struggling with motivation still but at least I have data and now I can work on rendering it.
+
 ### 12/06/2025
 
 11:52 AM
@@ -19,7 +27,7 @@ I've been thinking (that I write the same app over and over again)
 This is for debt:
 
 - [x] basic form that takes in: name, balance, APR, due date, min due (varies)
-- [ ] these are stored in localStorage (this app is for me, will be a desktop app)
+- [x] these are stored in localStorage (this app is for me, will be a desktop app)
 - [ ] another form to enter current balance
 - [ ] button that you click
 - [ ] the button after clicked it goes through the list of accounts and asks for all their balances

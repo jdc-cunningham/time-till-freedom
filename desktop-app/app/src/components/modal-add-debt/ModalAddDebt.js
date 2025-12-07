@@ -13,6 +13,17 @@ const ModalAddDebt = (props) => {
     minDue: ""
   });
 
+  const resetForm = () => {
+    setDebtInfo({
+      name: "",
+      balance: "",
+      apr: "",
+      type: "",
+      dueDate: "",
+      minDue: ""
+    });
+  };
+
   const updateData = (key, val) => {
     setDebtInfo(prevDebtInfo => ({
       ...prevDebtInfo,
@@ -40,6 +51,7 @@ const ModalAddDebt = (props) => {
 
         if (!debtSaveCall.error) {
           alert('Saved!');
+          resetForm();
         } else {
           alert(`Failed to save: ${debtSaveCall.msg}`);
         }
