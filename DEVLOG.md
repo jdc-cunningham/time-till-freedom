@@ -1,5 +1,13 @@
 ### 12/06/2025
 
+4:11 PM
+
+Alright back from the gym, wrist kind of hurts from lifting but I want to bust this out
+
+
+
+### 12/06/2025
+
 11:52 AM
 
 I've been trying to write code for the past like hour and I keep having distractions

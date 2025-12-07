@@ -24,7 +24,7 @@ const ModalAddDebt = (props) => {
     <input type="text" placeholder="debt name" value={debtInfo.name} onChange={(e) => updateData("name", e.target.value)}/>
     <input type="number" placeholder="balance" value={debtInfo.balance} onChange={(e) => updateData("balance", e.target.value)}/>
     <input type="number" placeholder="APR %" value={debtInfo.apr} onChange={(e) => updateData("apr", e.target.value)}/>
-    <select name="debt-type" value="" onChange={(e) => updateData("type", e.target.value)}>
+    <select name="debt-type" value={debtInfo.type} onChange={(e) => updateData("type", e.target.value)}>
       <option value="" disabled>debt type</option>
       <option>Credit Card</option>
       <option>Personal Loan</option>
@@ -36,10 +36,13 @@ const ModalAddDebt = (props) => {
     <button
       type="button"
       onClick={() => {
-        console.log(debtInfo);
-        // saveDebt({
+        const debtSaveCall = saveDebt(debtInfo);
 
-        // });
+        if (!debtSaveCall.error) {
+          alert('Saved!');
+        } else {
+          alert(`Failed to save: ${debtSaveCall.msg}`);
+        }
       }}
     >Save</button>
   </div>

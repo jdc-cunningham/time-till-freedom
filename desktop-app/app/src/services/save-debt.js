@@ -1,30 +1,20 @@
-const saveDebt = (
-  name,
-  balance,
-  apr,
-  type,
-  dueDate,
-  minDue
-) => {
-  const debts = localStorage.getItem('debts') || [];
+const saveDebt = (debtInfo) => {
+  const debts = JSON.parse(localStorage.getItem('debts')) || [];
 
-  if (name in debts) {
+  if (debts.find(debt => debt.name === debtInfo.name)) {
     return {
       error: true,
       msg: 'already exists'
     };
-  } else {
-    debts.push({
-      name,
-      balance,
-      apr,
-      type,
-      dueDate,
-      minDue
-    });
   }
 
+  debts.push(debtInfo);
   localStorage.setItem('debts', JSON.stringify(debts));
+
+  return {
+    error: false,
+    msg: ""
+  };
 };
 
 export default saveDebt;
