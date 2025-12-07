@@ -4,7 +4,9 @@
 
 Alright back from the gym, wrist kind of hurts from lifting but I want to bust this out
 
+4:17 PM
 
+Dang... I'm not feeling it, need to push through, I just think about how much work I have to do/feels daunting but I need to see it, my debt, I need drive to save/put towards debt
 
 ### 12/06/2025
 
