@@ -21,6 +21,10 @@ Will be interesting to see if it grows in APR or not, I think it will since my o
 
 This is not how it will look, I just want to see something.
 
+Excel is so great
+
+Anyway yeah I'm just f'd because my bills and minimum payments, living expense, just to stay level is about `$5K` and my income after taxes at best is $6,800.00 per month so it's not much excess to go towards debt.
+
 ### 12/06/2025
 
 4:11 PM
