@@ -25,6 +25,16 @@ Excel is so great
 
 Anyway yeah I'm just f'd because my bills and minimum payments, living expense, just to stay level is about `$5K` and my income after taxes at best is $6,800.00 per month so it's not much excess to go towards debt.
 
+8:50 PM
+
+Alright I decided I'm gonna stop drinking at home since that'll save me like $240 or so per month
+
+Whole point of this app is to remind myself the growth of these debts and how long it'll take me to pay them off at the current rate I pay them off.
+
+I'm doing some excel work now looking at statements
+
+The math is not 100% so I'm glad this is just for me, not like a real product for other people to use
+
 ### 12/06/2025
 
 4:11 PM
