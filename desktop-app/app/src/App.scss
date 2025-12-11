@@ -1,0 +1,43 @@
+.App {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  padding: 0.5rem;
+}
+
+/* move these */
+.BodyHome {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+}
+
+.DebtCard {
+  position: relative;
+  width: calc(20% - 1rem);
+  height: 100%;
+  margin: 0.5rem;
+  border: 1px solid #282828;
+  border-radius: 0.5rem;
+
+  &::before {
+    content: "";
+    width: 100%;
+    display: block;
+    padding-top: 100%;
+  }
+}
+
+.DebtCard-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-direction: column;
+  padding: 0.5rem;
+}

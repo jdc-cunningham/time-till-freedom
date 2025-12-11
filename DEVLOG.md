@@ -1,3 +1,18 @@
+- [x] basic form that takes in: name, balance, APR, due date, min due (varies)
+- [x] these are stored in localStorage (this app is for me, will be a desktop app)
+- [ ] another form to enter current balance
+- [ ] button that you click
+- [ ] the button after clicked it goes through the list of accounts and asks for all their balances
+- [ ] these updated values will be stored in another localStorage item
+
+### 12/10/2025
+
+7:33 PM
+
+Alright gonna try and get something displayed
+
+
+
 ### 12/06/2025
 
 4:11 PM

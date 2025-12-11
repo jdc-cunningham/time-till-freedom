@@ -1,21 +1,33 @@
-import { useState } from 'react';
-import './App.css';
+import { useState, useEffect } from 'react';
+import './App.scss';
 import HeaderTabs from './components/header-tabs/HeaderTabs';
 import ModalAddDebt from './components/modal-add-debt/ModalAddDebt';
 import saveDebt from './services/save-debt';
+import getDebts from './services/get-debts';
 
 function App() {
   const [activeTab, setActiveTab] = useState('home');
-  const [activeModal, setActiveModal] = useState('add-debt');
+  const [activeModal, setActiveModal] = useState('');
+  const [debts, setDebts] = useState([]);
+
+  const renderDebts = () => (
+    debts.map(debt => (
+      <div className="DebtCard">
+        <div className="DebtCard-text">
+          {debt.name}
+        </div>
+      </div>
+    ))
+  );
 
   const renderBody = (activeTab) => {
     switch (activeTab) { // enum
       case 'home':
-        return <div className="Body-home">
-
+        return <div className="BodyHome">
+          {renderDebts()}
         </div>;
       default:
-        return <div className="Body-unknown">
+        return <div className="BodyUnknown">
           <p>unknown body</p>
         </div>;
     }
@@ -31,6 +43,10 @@ function App() {
         </div>;
     }
   };
+
+  useEffect(() => {
+    setDebts(getDebts());
+  }, []);
 
   return (
     <div className="App">
