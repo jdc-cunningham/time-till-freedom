@@ -10,6 +10,9 @@ function App() {
   const [activeModal, setActiveModal] = useState('');
   const [debts, setDebts] = useState([]);
 
+  // move
+  const calcMonthlyAPRGrowth = (balance, apr) => (balance * ((apr/12)/100)).toFixed(2);
+
   const renderDebts = () => (
     debts.map(debt => (
       <div className="DebtCard">
@@ -17,6 +20,7 @@ function App() {
           {Object.keys(debt).map(key => (
             `${key}: ${debt[key]}\n`
           ))}
+          {`monthly growth: $${calcMonthlyAPRGrowth(debt.balance, debt.apr)}`}
         </div>
       </div>
     ))

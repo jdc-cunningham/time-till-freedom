@@ -11,7 +11,15 @@
 
 Alright gonna try and get something displayed
 
+<img src="./devlog-images/basic-render.png"/>
 
+The `$801.32` monthly payment one is now actually $594 for 2 years and last month payment is a little more.
+
+I used to be able to pay all this when I had a six-fig job but then when I ended up at a warehouse yeah I couldn't keep up and ended up defaulting on this.
+
+Will be interesting to see if it grows in APR or not, I think it will since my other account that is technically closed and I'm doing payments for doesn't go down exactly with what you pay.
+
+This is not how it will look, I just want to see something.
 
 ### 12/06/2025
 
@@ -195,7 +203,7 @@ will need a home tab
 
 I don't really have a specific design just something vague, will start building the pieces
 
-<img src="./readme-images/init-thoughts.JPG"/>
+<img src="./devlog-images/init-thoughts.JPG"/>
 
 6:54 PM
 I feel too sad right now to think
