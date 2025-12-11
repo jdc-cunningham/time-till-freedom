@@ -14,7 +14,9 @@ function App() {
     debts.map(debt => (
       <div className="DebtCard">
         <div className="DebtCard-text">
-          {debt.name}
+          {Object.keys(debt).map(key => (
+            `${key}: ${debt[key]}\n`
+          ))}
         </div>
       </div>
     ))
